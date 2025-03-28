@@ -65,19 +65,7 @@ python -m pip install "tensorflow<2.11"
 
 ### 5. Install Project Dependencies
 
-📜 Option 1: If you're in the project directory:
-
-```bash
-pip install -r requirements.txt
-```
-
-📂 Option 2: Specify the path to requirements.txt
-
-```bash
-pip install -r path/to/your/requirements.txt
-```
-
-📦 Option 3: Manually install the required packages using pip.
+pip install numpy==1.24.4 pandas==2.2.2 matplotlib==3.8.4 seaborn==0.13.2 scikit-learn==1.4.2 pydot==1.4.2 graphviz==0.16
 
 ### 6. Install Visual Studio Code (VS Code)
 
